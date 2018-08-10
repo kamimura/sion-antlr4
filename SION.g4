@@ -1,3 +1,4 @@
+//  Derived from https://docs.swift.org/swift-book/ReferenceManual/zzSummaryOfTheGrammar.html
 //  Created by kamimura on 2018/07/21.
 //  Copyright © 2018 kamimura. All rights reserved.
 grammar SION;
